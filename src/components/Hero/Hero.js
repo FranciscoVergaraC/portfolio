@@ -12,7 +12,7 @@ const Hero = (props) => (
         My personal Portfolio
       </SectionTitle>
       <SectionText>
-        I'm an an Industrial Engenieer with +10 years of experience in the software industry 
+        I'm an an Industrial Engenieer with +12 years of experience in the software industry 
       </SectionText>
       <Button onClick={()=> window.location = 'https://www.linkedin.com/in/francisco-vergara-cruz-48425743/'}>Let's connect</Button>
     </LeftSection>
