@@ -19,11 +19,11 @@ export const projects = [
   },
   {
     title: 'Todo List APP',
-    description: "Buided using HTML, CSS, React and Javascript. I got the recomendation to study react hooks so I builded this project to do so",
+    description: "Buided using HTML, CSS, React and Javascript. I got the recomendation to study react hooks so I builded this project to do it",
       image: '/images/task.png',
       tags: ['HTML', 'CSS', 'Javascript', 'React'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/FranciscoVergaraC/todowithooks',
+    visit: 'https://634931ed89182d2029d8f6a9--playful-cendol-4ce6e8.netlify.app/',
     id: 2,
   },
   {
