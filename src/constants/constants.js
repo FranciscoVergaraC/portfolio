@@ -27,20 +27,22 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    title: 'Restaurant Landing',
+    description: "Buided using HTML, CSS, React and Javascript. I used a youtube tutorial as guide",
     image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    tags: ['HTML', 'CSS', 'Javascript', 'React'],
+    source: 'https://github.com/FranciscoVergaraC/restaurantlanding',
+    visit: 'https://restaurantlandinggericht.netlify.app/',
     id: 3,
   },
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2012, text: 'Co-Founded a Software Startup specialized on optimization that went broke 2 years after :(', },
+  { year: 2014, text: 'Graduated as Industrial Engineer with focus on software and projects management', },
+  { year: 2014, text: 'Started working as project engineer at LATAM Airlines, implementing software projects who improved the company operation', },
+  { year: 2015, text: 'Promoted to project manager at LATAM, in charge of leading several software projects', },
+  { year: 2017, text: 'Started working as Operations Manager at Mediastream, leading the sotfware as a service onboarding team (Which includes software integrations via API) and the support team', },
+  { year: 2019, text: 'Promoted to Operations Director, adding human resources, finance and board reporting to previous responsibilities', },
+
 ];

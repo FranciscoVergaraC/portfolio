@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Passonate about software
+      Since the beginning of my career I was interested on software, initially leading the teams who developed, leading implementations and defining roadmap, but as the time passed by I realized that to become a great leader you need to have great technical skills so I learned to develop software, right now I’m looking to spend some time as a full time developer.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
